@@ -46,6 +46,15 @@
                 color: #666f77;
                 font-size: 18px;
             }
+            
+            .linha-sufixa-servicos {
+                display: inline-block;
+                width: 323px;
+                height: 8px;
+                margin-left: 146px;
+                background-color: #0063f4;
+                margin: -55px auto;
+            }
             /*  */
             /* especialidades cartões */
             

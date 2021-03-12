@@ -3,6 +3,7 @@
         <div class="tela-servicos">
             <div class="titulo-servicos">
             <ul>
+            <div class="linha-sufixa-servicos"></div>
                 <h3>Especialidades</h3>
 
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 

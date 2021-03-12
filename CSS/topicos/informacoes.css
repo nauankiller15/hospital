@@ -20,7 +20,7 @@
     position: absolute;
     top: 17px;
     width: 285px;
-    z-index: 99;
+    z-index: 100;
     text-decoration: none;
     padding: 30px;
     left: 468px;
@@ -59,7 +59,7 @@
     position: absolute;
     top: 17px;
     width: 325px;
-    z-index: 99;
+    z-index: 100;
     text-decoration: none;
     padding: 30px;
 }
@@ -94,7 +94,7 @@
     position: absolute;
     top: 17px;
     width: 284px;
-    z-index: 99;
+    z-index: 100;
     text-decoration: none;
     padding: 30px;
     text-decoration: none;
@@ -169,7 +169,7 @@
 .informacoes {
     left: -15px;
     width: 85%;
-    z-index: 97;
+    z-index: 99;
     background: #fff;
     border-radius: 12px;
     padding: 132px;
