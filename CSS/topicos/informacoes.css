@@ -13,6 +13,18 @@
     padding-bottom: 1px;
 }
 
+.informacoes {
+    left: -15px;
+    width: 85%;
+    z-index: 100;
+    background: #fff;
+    border-radius: 12px;
+    padding: 132px;
+    position: absolute;
+    top: 12px;
+    box-shadow: 8px -5px 8px -6px rgb(0 0 0 / 10%);
+}
+
 
 /* PRIMEIRO LABEL */
 
@@ -20,7 +32,7 @@
     position: absolute;
     top: 17px;
     width: 285px;
-    z-index: 100;
+    z-index: 104;
     text-decoration: none;
     padding: 30px;
     left: 468px;
@@ -59,7 +71,7 @@
     position: absolute;
     top: 17px;
     width: 325px;
-    z-index: 100;
+    z-index: 104;
     text-decoration: none;
     padding: 30px;
 }
@@ -94,7 +106,7 @@
     position: absolute;
     top: 17px;
     width: 284px;
-    z-index: 100;
+    z-index: 104;
     text-decoration: none;
     padding: 30px;
     text-decoration: none;
@@ -125,7 +137,7 @@
     position: absolute;
     top: 12px;
     width: 246px;
-    z-index: 100;
+    z-index: 104;
     text-decoration: none;
     padding: 30px;
     text-align: center;
@@ -164,16 +176,4 @@
 .avaliar-atendimento:hover {
     background: #245caf;
     transform: translate(0px, -3px);
-}
-
-.informacoes {
-    left: -15px;
-    width: 85%;
-    z-index: 99;
-    background: #fff;
-    border-radius: 12px;
-    padding: 132px;
-    position: absolute;
-    top: 12px;
-    box-shadow: 8px -5px 8px -6px rgb(0 0 0 / 10%);
 }
